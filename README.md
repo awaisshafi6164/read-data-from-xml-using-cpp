@@ -1,12 +1,3 @@
 # read-data-from-xml-using-cpp
 
-in this xml praser we use pugixml method.
-
-which is very easy to understand and fast method.
-
-So, if you want to use this method you should have three files in your project folder which is given on files. 
-pugiconfig.hpp
-pugixml.cpp
-pugixml.hpp
-
-Now use pugixml code to read files from any xml document. 
+In this code we are basiclly read data from the xml file. So download the all files and run code.
