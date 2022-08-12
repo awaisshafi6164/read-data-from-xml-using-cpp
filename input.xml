@@ -1,0 +1,14 @@
+<order>  
+	<object>  
+		<name>John Doe</name>
+		<cost>8000</cost>    
+	</object>  
+	<object>  
+		<name>Tom Hall</name>  
+		<cost>5000</cost>
+	</object>
+	<object>  
+		<name>Awais Shafi</name>  
+		<cost>1000</cost>
+	</object>
+</order>
