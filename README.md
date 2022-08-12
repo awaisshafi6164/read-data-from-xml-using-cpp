@@ -9,4 +9,4 @@ pugiconfig.hpp
 pugixml.cpp
 pugixml.hpp
 
-
+Now use pugixml code to read files from any xml document. 
