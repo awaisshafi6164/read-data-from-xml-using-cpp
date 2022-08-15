@@ -1,0 +1,4822 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<root>
+
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$702.00</Qtr_1>
+  </Source_Data>
+
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$312.00</Qtr_1>
+  </Source_Data>
+
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>BOLID</Customer>
+    <Qtr_1>$1,170.00</Qtr_1>
+  </Source_Data>
+
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$1,170.00</Qtr_1>
+  </Source_Data>
+
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$1,123.20</Qtr_1>
+    <Qtr_1>$2,607.15</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>GODOS</Customer>
+    <Qtr_1>$280.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>HUNGC</Customer>
+    <Qtr_1>$62.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$1,560.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$592.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$741.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$3,900.00</Qtr_1>
+    <Qtr_1>$789.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$877.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Alice Mutton</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$780.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Aniseed Syrup</Product>
+    <Customer>ALFKI</Customer>
+    <Qtr_1>$60.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Aniseed Syrup</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$200.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Aniseed Syrup</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Aniseed Syrup</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$544.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Aniseed Syrup</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$600.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Aniseed Syrup</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$140.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$165.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$920.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$248.40</Qtr_1>
+    <Qtr_1>$524.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$551.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$147.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>FRANS</Customer>
+    <Qtr_1>$18.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$92.00</Qtr_1>
+    <Qtr_1>$1,104.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>LAZYK</Customer>
+    <Qtr_1>$147.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$515.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$55.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$368.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>PERIC</Customer>
+    <Qtr_1>$308.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$26.46</Qtr_1>
+    <Qtr_1>$419.52</Qtr_1>
+    <Qtr_1>$110.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$1,223.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>RANCH</Customer>
+    <Qtr_1>$294.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$772.80</Qtr_1>
+    <Qtr_1>$736.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>TRAIH</Customer>
+    <Qtr_1>$36.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Boston Crab Meat</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$294.00</Qtr_1>
+    <Qtr_1>$736.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>ANATR</Customer>
+    <Qtr_1>$340.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$510.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$680.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$1,700.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$323.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$346.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$612.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$544.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$340.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$892.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$2,261.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$1,020.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$510.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$2,427.60</Qtr_1>
+    <Qtr_1>$1,776.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$1,088.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$1,550.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$2,380.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$693.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Camembert Pierrot</Product>
+    <Customer>WOLZA</Customer>
+    <Qtr_1>$510.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$956.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$1,500.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$3,125.00</Qtr_1>
+    <Qtr_1>$1,875.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$1,250.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$1,406.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>LETSS</Customer>
+    <Qtr_1>$562.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$2,000.00</Qtr_1>
+    <Qtr_1>$1,500.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>SANTG</Customer>
+    <Qtr_1>$500.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>SPLIR</Customer>
+    <Qtr_1>$1,050.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Carnarvon Tigers</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$225.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$472.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$450.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>DUMON</Customer>
+    <Qtr_1>$54.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$202.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$345.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$576.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$900.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$360.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>NORTS</Customer>
+    <Qtr_1>$144.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>PRINI</Customer>
+    <Qtr_1>$216.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$144.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$540.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$72.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>TORTU</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$122.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chai</Product>
+    <Customer>WOLZA</Customer>
+    <Qtr_1>$108.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$228.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>CONSH</Customer>
+    <Qtr_1>$152.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$95.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$950.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$270.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$273.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$760.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$912.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$380.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$581.40</Qtr_1>
+    <Qtr_1>$484.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$285.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$541.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$516.80</Qtr_1>
+    <Qtr_1>$228.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chang</Product>
+    <Customer>WOLZA</Customer>
+    <Qtr_1>$190.00</Qtr_1>
+    <Qtr_1>$190.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>ALFKI</Customer>
+    <Qtr_1>$283.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$86.40</Qtr_1>
+    <Qtr_1>$324.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>BLAUS</Customer>
+    <Qtr_1>$90.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$2,106.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$288.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$43.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$30.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>PRINI</Customer>
+    <Qtr_1>$216.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$360.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>TRAIH</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chartreuse verte</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$288.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$237.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$935.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>EASTC</Customer>
+    <Qtr_1>$550.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$1,045.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$225.28</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$198.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$132.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$990.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>TRADH</Customer>
+    <Qtr_1>$352.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Cajun Seasoning</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$550.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Gumbo Mix</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$288.22</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chef Anton&#x27;s Gumbo Mix</Product>
+    <Customer>THEBI</Customer>
+    <Qtr_1>$85.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chocolade</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$162.56</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chocolade</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$137.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chocolade</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$606.90</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chocolade</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$68.85</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Chocolade</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$306.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$3,557.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$3,754.87</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$948.60</Qtr_1>
+    <Qtr_1>$1,317.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$8,263.36</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$7,905.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$6,324.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$10,540.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>THEBI</Customer>
+    <Qtr_1>$2,635.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Côte de Blaye</Product>
+    <Customer>TORTU</Customer>
+    <Qtr_1>$3,952.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Escargots de Bourgogne</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$397.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Escargots de Bourgogne</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$519.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Escargots de Bourgogne</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$298.13</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Escargots de Bourgogne</Product>
+    <Customer>OLDWO</Customer>
+    <Qtr_1>$397.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Escargots de Bourgogne</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$265.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Escargots de Bourgogne</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$119.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Escargots de Bourgogne</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$79.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$210.00</Qtr_1>
+    <Qtr_1>$56.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$175.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$112.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>DUMON</Customer>
+    <Qtr_1>$63.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$28.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>LAUGB</Customer>
+    <Qtr_1>$35.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>NORTS</Customer>
+    <Qtr_1>$42.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>OLDWO</Customer>
+    <Qtr_1>$168.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$23.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$490.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$420.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>TOMSP</Customer>
+    <Qtr_1>$75.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$99.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Filo Mix</Product>
+    <Customer>VINET</Customer>
+    <Qtr_1>$126.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$258.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$688.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$645.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$240.80</Qtr_1>
+    <Qtr_1>$344.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$306.37</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$174.15</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$483.75</Qtr_1>
+    <Qtr_1>$365.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$206.40</Qtr_1>
+    <Qtr_1>$322.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$306.37</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$258.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$172.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$1,032.00</Qtr_1>
+    <Qtr_1>$193.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$34.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,032.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$860.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Fløtemysost</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$516.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$92.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$98.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$37.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$100.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$16.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>HUNGC</Customer>
+    <Qtr_1>$40.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$24.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$32.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$75.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$34.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$45.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$110.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>TRAIH</Customer>
+    <Qtr_1>$35.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Geitost</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$47.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Genen Shouyu</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$176.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Genen Shouyu</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$368.12</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Genen Shouyu</Product>
+    <Customer>LETSS</Customer>
+    <Qtr_1>$155.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Genen Shouyu</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$775.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$1,094.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$855.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$608.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$1,520.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>COMMI</Customer>
+    <Qtr_1>$912.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$912.00</Qtr_1>
+    <Qtr_1>$2,660.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$2,280.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$729.60</Qtr_1>
+    <Qtr_1>$387.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>GALED</Customer>
+    <Qtr_1>$152.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$646.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$532.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$1,140.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$425.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$2,166.00</Qtr_1>
+    <Qtr_1>$760.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>PRINI</Customer>
+    <Qtr_1>$851.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$2,166.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$2,128.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$361.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,216.00</Qtr_1>
+    <Qtr_1>$1,710.00</Qtr_1>
+    <Qtr_1>$1,577.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$456.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>TOMSP</Customer>
+    <Qtr_1>$1,064.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$969.00</Qtr_1>
+    <Qtr_1>$608.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gnocchi di nonna Alice</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$152.00</Qtr_1>
+    <Qtr_1>$425.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$625.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$593.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$35.62</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>CACTU</Customer>
+    <Qtr_1>$12.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$890.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$18.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$140.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$125.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$250.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$600.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$250.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>OLDWO</Customer>
+    <Qtr_1>$187.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$100.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$237.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$584.37</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$421.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$375.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$625.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$297.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>TOMSP</Customer>
+    <Qtr_1>$27.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>TORTU</Customer>
+    <Qtr_1>$250.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>TRADH</Customer>
+    <Qtr_1>$190.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$90.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gorgonzola Telino</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$375.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Grandma&#x27;s Boysenberry Spread</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$750.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Grandma&#x27;s Boysenberry Spread</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$1,750.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gravad lax</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$208.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gravad lax</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$421.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$38.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$90.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$13.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$141.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$63.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$76.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>LAUGB</Customer>
+    <Qtr_1>$22.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$100.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$101.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$126.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$157.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$57.37</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>SANTG</Customer>
+    <Qtr_1>$36.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$64.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$273.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>TOMSP</Customer>
+    <Qtr_1>$64.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>TORTU</Customer>
+    <Qtr_1>$22.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$90.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Guaraná Fantástica</Product>
+    <Customer>WILMK</Customer>
+    <Qtr_1>$90.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$675.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$1,440.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$3,051.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$855.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$648.00</Qtr_1>
+    <Qtr_1>$691.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$259.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$576.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>MAISD</Customer>
+    <Qtr_1>$360.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>NORTS</Customer>
+    <Qtr_1>$108.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$432.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$1,080.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$547.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>SPLIR</Customer>
+    <Qtr_1>$576.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$540.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$306.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gudbrandsdalsost</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$918.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$496.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$194.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$197.62</Qtr_1>
+    <Qtr_1>$778.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$490.14</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$194.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$1,701.87</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,472.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>THECR</Customer>
+    <Qtr_1>$194.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>TORTU</Customer>
+    <Qtr_1>$583.50</Qtr_1>
+    <Qtr_1>$408.45</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gula Malacca</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$26.35</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$796.36</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$373.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$929.09</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>FRANS</Customer>
+    <Qtr_1>$49.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$524.66</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$148.34</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$709.65</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$468.45</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$747.00</Qtr_1>
+    <Qtr_1>$187.38</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$747.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$1,249.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>RANCH</Customer>
+    <Qtr_1>$149.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$961.88</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$936.90</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>SPLIR</Customer>
+    <Qtr_1>$249.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$747.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gumbär Gummibärchen</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$468.45</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$84.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>CONSH</Customer>
+    <Qtr_1>$201.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$126.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$840.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$840.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$315.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,008.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$315.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Gustaf&#x27;s Knäckebröd</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$504.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$62.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$347.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$651.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$471.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>DUMON</Customer>
+    <Qtr_1>$310.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$632.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>GALED</Customer>
+    <Qtr_1>$155.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$620.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>GROSR</Customer>
+    <Qtr_1>$310.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$418.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$496.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$2,170.00</Qtr_1>
+    <Qtr_1>$558.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$1,116.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>THECR</Customer>
+    <Qtr_1>$186.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>TORTU</Customer>
+    <Qtr_1>$62.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$502.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ikura</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$868.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$285.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$85.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$760.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$299.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$68.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$513.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$475.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,045.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$1,140.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>SPLIR</Customer>
+    <Qtr_1>$304.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>THEBI</Customer>
+    <Qtr_1>$95.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Inlagd Sill</Product>
+    <Customer>VINET</Customer>
+    <Qtr_1>$114.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$586.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$2,760.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$110.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$552.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>MAISD</Customer>
+    <Qtr_1>$1,035.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>OLDWO</Customer>
+    <Qtr_1>$1,104.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$1,150.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$1,840.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$736.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$920.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ipoh Coffee</Product>
+    <Customer>WILMK</Customer>
+    <Qtr_1>$276.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$135.10</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$231.00</Qtr_1>
+    <Qtr_1>$96.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$110.01</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$154.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>CACTU</Customer>
+    <Qtr_1>$96.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$115.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$183.35</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$38.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$694.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>LAUGB</Customer>
+    <Qtr_1>$154.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$82.51</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$337.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$154.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,389.60</Qtr_1>
+    <Qtr_1>$405.30</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$52.11</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>TOMSP</Customer>
+    <Qtr_1>$135.10</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$275.02</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Jack&#x27;s New England Clam Chowder</Product>
+    <Customer>VINET</Customer>
+    <Qtr_1>$115.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$48.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$36.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>CONSH</Customer>
+    <Qtr_1>$4.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$66.30</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$403.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$102.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$60.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>VINET</Customer>
+    <Qtr_1>$24.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$60.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Konbu</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$8.64</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>ALFKI</Customer>
+    <Qtr_1>$270.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>BLAUS</Customer>
+    <Qtr_1>$252.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$360.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$220.32</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$162.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$360.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$535.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$630.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$417.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$57.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>LONEP</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>MORGK</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$900.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$540.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,440.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Lakkalikööri</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$514.08</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Laughing Lumberjack Lager</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$350.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Laughing Lumberjack Lager</Product>
+    <Customer>LONEP</Customer>
+    <Qtr_1>$98.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Laughing Lumberjack Lager</Product>
+    <Customer>PERIC</Customer>
+    <Qtr_1>$420.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Laughing Lumberjack Lager</Product>
+    <Customer>THECR</Customer>
+    <Qtr_1>$42.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Longlife Tofu</Product>
+    <Customer>FRANS</Customer>
+    <Qtr_1>$50.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Longlife Tofu</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$128.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Longlife Tofu</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$240.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Longlife Tofu</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$120.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Longlife Tofu</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$112.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Longlife Tofu</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$350.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$199.97</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$820.95</Qtr_1>
+    <Qtr_1>$1,299.84</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>FRANR</Customer>
+    <Qtr_1>$252.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$268.39</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$682.02</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$421.00</Qtr_1>
+    <Qtr_1>$842.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$226.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$442.05</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$599.92</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$202.08</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$423.36</Qtr_1>
+    <Qtr_1>$1,515.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$336.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$588.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$210.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$42.10</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Hot Spiced Okra</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$68.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Hot Spiced Okra</Product>
+    <Customer>EASTC</Customer>
+    <Qtr_1>$408.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Hot Spiced Okra</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$816.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Hot Spiced Okra</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$850.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Hot Spiced Okra</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$122.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Louisiana Hot Spiced Okra</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$693.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$1,060.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$1,007.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$127.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$1,510.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$6,042.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$795.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$2,650.00</Qtr_1>
+    <Qtr_1>$1,484.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$1,484.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$1,060.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$159.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>LONEP</Customer>
+    <Qtr_1>$1,060.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$2,162.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>RANCH</Customer>
+    <Qtr_1>$371.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$318.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$848.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$763.20</Qtr_1>
+    <Qtr_1>$477.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Manjimup Dried Apples</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$1,192.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mascarpone Fabioli</Product>
+    <Customer>ANATR</Customer>
+    <Qtr_1>$320.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mascarpone Fabioli</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$288.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mascarpone Fabioli</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$128.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mascarpone Fabioli</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$652.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mascarpone Fabioli</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$1,280.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Maxilaku</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$120.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Maxilaku</Product>
+    <Customer>EASTC</Customer>
+    <Qtr_1>$480.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Maxilaku</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$285.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Maxilaku</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$500.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Maxilaku</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$456.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Maxilaku</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$384.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Maxilaku</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$835.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Maxilaku</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$68.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mishi Kobe Niku</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$3,637.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mishi Kobe Niku</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$1,319.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mishi Kobe Niku</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$1,396.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mishi Kobe Niku</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$582.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$1,218.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$34.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>CONSH</Customer>
+    <Qtr_1>$278.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$835.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$313.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$348.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$695.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$2,088.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$887.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>MAISD</Customer>
+    <Qtr_1>$522.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>MORGK</Customer>
+    <Qtr_1>$1,044.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$243.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$730.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$417.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$835.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Mozzarella di Giovanni</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$1,112.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$258.90</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>EASTC</Customer>
+    <Qtr_1>$388.35</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$776.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$517.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$38.84</Qtr_1>
+    <Qtr_1>$388.35</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$165.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$673.14</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>LETSS</Customer>
+    <Qtr_1>$58.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$434.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$699.03</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$372.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$776.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Nord-Ost Matjeshering</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$485.44</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Northwoods Cranberry Sauce</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$340.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Northwoods Cranberry Sauce</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$1,600.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Northwoods Cranberry Sauce</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$960.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Northwoods Cranberry Sauce</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$960.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Northwoods Cranberry Sauce</Product>
+    <Customer>WILMK</Customer>
+    <Qtr_1>$400.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>NuNuCa Nuß-Nougat-Creme</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$638.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>NuNuCa Nuß-Nougat-Creme</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$226.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>NuNuCa Nuß-Nougat-Creme</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$134.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>NuNuCa Nuß-Nougat-Creme</Product>
+    <Customer>MAISD</Customer>
+    <Qtr_1>$126.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>NuNuCa Nuß-Nougat-Creme</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$367.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>NuNuCa Nuß-Nougat-Creme</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$199.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$61.88</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$292.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$341.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>LAUGB</Customer>
+    <Qtr_1>$52.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$260.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>LETSS</Customer>
+    <Qtr_1>$23.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$195.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$741.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$123.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$88.40</Qtr_1>
+    <Qtr_1>$260.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$514.80</Qtr_1>
+    <Qtr_1>$864.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$364.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>TRAIH</Customer>
+    <Qtr_1>$234.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$48.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Original Frankfurter grüne Soße</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$296.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$270.00</Qtr_1>
+    <Qtr_1>$357.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$105.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$114.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$213.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$144.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$300.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$189.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$525.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$648.00</Qtr_1>
+    <Qtr_1>$337.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>NORTS</Customer>
+    <Qtr_1>$90.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$750.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$600.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$168.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Outback Lager</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$86.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$504.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$410.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$144.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$36.48</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$273.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$144.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$864.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$518.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>MAISD</Customer>
+    <Qtr_1>$336.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$288.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$2,073.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$1,080.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>TRADH</Customer>
+    <Qtr_1>$384.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$86.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pâté chinois</Product>
+    <Customer>WILMK</Customer>
+    <Qtr_1>$120.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$188.46</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$248.66</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$248.11</Qtr_1>
+    <Qtr_1>$1,134.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$471.15</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>FRANR</Customer>
+    <Qtr_1>$174.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$593.30</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$349.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$222.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$222.40</Qtr_1>
+    <Qtr_1>$497.32</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>MORGK</Customer>
+    <Qtr_1>$349.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>OLDWO</Customer>
+    <Qtr_1>$654.38</Qtr_1>
+    <Qtr_1>$349.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$497.32</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$250.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$872.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$578.93</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>SPECD</Customer>
+    <Qtr_1>$52.35</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$244.30</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$413.52</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Pavlova</Product>
+    <Customer>WILMK</Customer>
+    <Qtr_1>$52.35</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$820.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$590.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$393.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$779.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$328.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$93.48</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>PERIC</Customer>
+    <Qtr_1>$196.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$334.05</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$733.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>SANTG</Customer>
+    <Qtr_1>$164.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$3,936.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$1,965.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Perth Pasties</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$328.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$945.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>BLAUS</Customer>
+    <Qtr_1>$294.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$624.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>COMMI</Customer>
+    <Qtr_1>$168.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>DRACD</Customer>
+    <Qtr_1>$420.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>EASTC</Customer>
+    <Qtr_1>$105.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$504.00</Qtr_1>
+    <Qtr_1>$315.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$100.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$63.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>HANAR</Customer>
+    <Qtr_1>$236.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$84.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$299.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>LAZYK</Customer>
+    <Qtr_1>$210.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$299.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$504.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$189.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$210.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$80.64</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$945.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Cabrales</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$315.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Manchego La Pastora</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$1,162.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Manchego La Pastora</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$1,368.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Manchego La Pastora</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$427.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Manchego La Pastora</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$969.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Manchego La Pastora</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$456.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Manchego La Pastora</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$3,800.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Queso Manchego La Pastora</Product>
+    <Customer>WILMK</Customer>
+    <Qtr_1>$152.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$742.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$660.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$1,020.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$2,464.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$528.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$1,925.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$1,320.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$880.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$1,402.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$2,640.00</Qtr_1>
+    <Qtr_1>$1,925.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$1,760.00</Qtr_1>
+    <Qtr_1>$1,963.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$330.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$1,584.00</Qtr_1>
+    <Qtr_1>$1,375.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$1,375.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>LONEP</Customer>
+    <Qtr_1>$55.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$1,045.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>MORGK</Customer>
+    <Qtr_1>$660.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>NORTS</Customer>
+    <Qtr_1>$220.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>OCEAN</Customer>
+    <Qtr_1>$110.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>OLDWO</Customer>
+    <Qtr_1>$440.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$3,850.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$2,640.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$522.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$385.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$1,168.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Raclette Courdavault</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$783.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ravioli Angelo</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$87.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ravioli Angelo</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$780.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ravioli Angelo</Product>
+    <Customer>BLAUS</Customer>
+    <Qtr_1>$78.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ravioli Angelo</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$204.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ravioli Angelo</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$117.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ravioli Angelo</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$390.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ravioli Angelo</Product>
+    <Customer>TOMSP</Customer>
+    <Qtr_1>$187.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Ravioli Angelo</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$312.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$232.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$104.62</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$133.92</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$387.50</Qtr_1>
+    <Qtr_1>$43.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$310.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$15.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$18.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$193.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>GROSR</Customer>
+    <Qtr_1>$77.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$223.20</Qtr_1>
+    <Qtr_1>$232.50</Qtr_1>
+    <Qtr_1>$310.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$155.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$55.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$155.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>LETSS</Customer>
+    <Qtr_1>$162.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>PERIC</Customer>
+    <Qtr_1>$62.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$260.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$294.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$139.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$251.10</Qtr_1>
+    <Qtr_1>$325.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>TRAIH</Customer>
+    <Qtr_1>$155.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rhönbräu Klosterbier</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$186.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Röd Kaviar</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$45.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Röd Kaviar</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$342.00</Qtr_1>
+    <Qtr_1>$525.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Röd Kaviar</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$192.00</Qtr_1>
+    <Qtr_1>$750.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Röd Kaviar</Product>
+    <Customer>HUNGC</Customer>
+    <Qtr_1>$450.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Röd Kaviar</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$135.00</Qtr_1>
+    <Qtr_1>$225.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Röd Kaviar</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$446.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Röd Kaviar</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$216.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Röd Kaviar</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$191.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$243.67</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>FRANS</Customer>
+    <Qtr_1>$38.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$190.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>PERIC</Customer>
+    <Qtr_1>$199.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$807.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,045.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$205.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$323.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Røgede sild</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$304.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>ALFKI</Customer>
+    <Qtr_1>$513.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$912.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>BLAUS</Customer>
+    <Qtr_1>$136.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$1,596.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$346.56</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$912.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>LONEP</Customer>
+    <Qtr_1>$319.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>MAISD</Customer>
+    <Qtr_1>$912.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>PERIC</Customer>
+    <Qtr_1>$655.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$1,375.92</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$436.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$546.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$1,094.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$1,092.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>THECR</Customer>
+    <Qtr_1>$456.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$2,462.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Rössle Sauerkraut</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$182.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sasquatch Ale</Product>
+    <Customer>ANTON</Customer>
+    <Qtr_1>$560.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sasquatch Ale</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$554.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sasquatch Ale</Product>
+    <Customer>THEBI</Customer>
+    <Qtr_1>$140.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sasquatch Ale</Product>
+    <Customer>TOMSP</Customer>
+    <Qtr_1>$179.20</Qtr_1>
+    <Qtr_1>$105.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sasquatch Ale</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$196.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sasquatch Ale</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$372.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Schoggi Schokolade</Product>
+    <Customer>MAISD</Customer>
+    <Qtr_1>$1,756.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Schoggi Schokolade</Product>
+    <Customer>OLDWO</Customer>
+    <Qtr_1>$1,755.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Schoggi Schokolade</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$5,268.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Schoggi Schokolade</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$2,195.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>CACTU</Customer>
+    <Qtr_1>$75.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$225.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$157.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$300.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>LONEP</Customer>
+    <Qtr_1>$125.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>MAISD</Customer>
+    <Qtr_1>$250.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$240.00</Qtr_1>
+    <Qtr_1>$187.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$500.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$437.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$180.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$962.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$270.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>SPLIR</Customer>
+    <Qtr_1>$60.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Scottish Longbreads</Product>
+    <Customer>WOLZA</Customer>
+    <Qtr_1>$187.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>ANATR</Customer>
+    <Qtr_1>$70.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$399.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$212.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$392.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$333.20</Qtr_1>
+    <Qtr_1>$159.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$280.00</Qtr_1>
+    <Qtr_1>$224.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$420.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$280.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>MAGAA</Customer>
+    <Qtr_1>$425.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>OLDWO</Customer>
+    <Qtr_1>$420.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$1,120.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$560.00</Qtr_1>
+    <Qtr_1>$28.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Customer>WILMK</Customer>
+    <Qtr_1>$84.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Marmalade</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$3,159.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Marmalade</Product>
+    <Customer>HUNGC</Customer>
+    <Qtr_1>$1,701.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Marmalade</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$1,360.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Marmalade</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$1,093.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>BLAUS</Customer>
+    <Qtr_1>$80.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$112.00</Qtr_1>
+    <Qtr_1>$150.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$380.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>DUMON</Customer>
+    <Qtr_1>$60.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$400.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$400.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$225.00</Qtr_1>
+    <Qtr_1>$304.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>GODOS</Customer>
+    <Qtr_1>$54.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$108.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$272.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$240.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$300.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$420.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>OCEAN</Customer>
+    <Qtr_1>$96.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>PRINI</Customer>
+    <Qtr_1>$126.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$216.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$600.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>RANCH</Customer>
+    <Qtr_1>$50.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$240.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$320.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sir Rodney&#x27;s Scones</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$120.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$2,565.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>GODOS</Customer>
+    <Qtr_1>$256.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>LETSS</Customer>
+    <Qtr_1>$513.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$142.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$364.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>RANCH</Customer>
+    <Qtr_1>$285.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,744.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$456.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$342.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$570.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Sirop d&#x27;érable</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$712.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>ALFKI</Customer>
+    <Qtr_1>$18.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$319.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$48.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>COMMI</Customer>
+    <Qtr_1>$48.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$91.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$720.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$76.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$192.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$540.00</Qtr_1>
+    <Qtr_1>$288.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$14.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$182.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$226.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Spegesild</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$216.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$115.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$360.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>CACTU</Customer>
+    <Qtr_1>$54.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>EASTC</Customer>
+    <Qtr_1>$504.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$405.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$270.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$486.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>FURIB</Customer>
+    <Qtr_1>$306.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$72.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$121.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$691.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$360.00</Qtr_1>
+    <Qtr_1>$378.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$540.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$108.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Steeleye Stout</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$504.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$1,379.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$493.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>CHOPS</Customer>
+    <Qtr_1>$443.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$3,352.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$1,379.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$554.62</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>FRANR</Customer>
+    <Qtr_1>$493.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$98.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$986.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$1,576.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$147.90</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>MORGK</Customer>
+    <Qtr_1>$986.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$936.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$2,366.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>REGGC</Customer>
+    <Qtr_1>$443.70</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$739.50</Qtr_1>
+    <Qtr_1>$1,479.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>SIMOB</Customer>
+    <Qtr_1>$184.87</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>TRADH</Customer>
+    <Qtr_1>$394.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>TRAIH</Customer>
+    <Qtr_1>$493.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$739.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tarte au sucre</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$1,972.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$124.83</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$124.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>FRANS</Customer>
+    <Qtr_1>$46.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>GODOS</Customer>
+    <Qtr_1>$92.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$248.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$46.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$48.30</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$24.82</Qtr_1>
+    <Qtr_1>$276.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$36.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$437.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>RICAR</Customer>
+    <Qtr_1>$292.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$257.60</Qtr_1>
+    <Qtr_1>$110.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>SUPRD</Customer>
+    <Qtr_1>$153.30</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>TOMSP</Customer>
+    <Qtr_1>$166.44</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>TORTU</Customer>
+    <Qtr_1>$64.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$82.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$146.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Teatime Chocolate Biscuits</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$209.76</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>BOLID</Customer>
+    <Qtr_1>$1,856.85</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>EASTC</Customer>
+    <Qtr_1>$2,079.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$1,411.21</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$1,646.41</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>GODOS</Customer>
+    <Qtr_1>$2,475.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$1,237.90</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>LAMAI</Customer>
+    <Qtr_1>$2,352.01</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$2,228.22</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$4,951.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$4,456.44</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$2,019.60</Qtr_1>
+    <Qtr_1>$4,456.44</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>THECR</Customer>
+    <Qtr_1>$742.74</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$1,603.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Thüringer Rostbratwurst</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$1,237.90</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>ANATR</Customer>
+    <Qtr_1>$69.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$372.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$217.39</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$1,185.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$62.77</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$1,627.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>OCEAN</Customer>
+    <Qtr_1>$223.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$331.31</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>PERIC</Customer>
+    <Qtr_1>$223.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$651.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$279.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$558.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tofu</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$334.80</Qtr_1>
+    <Qtr_1>$98.81</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>BERGS</Customer>
+    <Qtr_1>$88.50</Qtr_1>
+    <Qtr_1>$111.75</Qtr_1>
+    <Qtr_1>$40.23</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>BLAUS</Customer>
+    <Qtr_1>$149.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$472.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$223.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$35.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$111.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>HUNGC</Customer>
+    <Qtr_1>$29.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>KOENE</Customer>
+    <Qtr_1>$169.86</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$59.60</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>LETSS</Customer>
+    <Qtr_1>$223.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>QUEDE</Customer>
+    <Qtr_1>$35.76</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$106.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$223.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>SEVES</Customer>
+    <Qtr_1>$46.93</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>SPLIR</Customer>
+    <Qtr_1>$236.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$372.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$28.32</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>WARTH</Customer>
+    <Qtr_1>$17.88</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$379.95</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tourtière</Product>
+    <Customer>WOLZA</Customer>
+    <Qtr_1>$22.35</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$108.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>CONSH</Customer>
+    <Qtr_1>$151.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$432.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>FRANK</Customer>
+    <Qtr_1>$288.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>ISLAT</Customer>
+    <Qtr_1>$135.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>LAUGB</Customer>
+    <Qtr_1>$72.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>LILAS</Customer>
+    <Qtr_1>$535.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$171.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Tunnbröd</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$396.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$1,275.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>BSBEV</Customer>
+    <Qtr_1>$720.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$1,050.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$76.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$1,050.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$2,700.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$1,350.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$300.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Uncle Bob&#x27;s Organic Dried Pears</Product>
+    <Customer>VICTE</Customer>
+    <Qtr_1>$364.80</Qtr_1>
+    <Qtr_1>$300.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Valkoinen suklaa</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$520.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Valkoinen suklaa</Product>
+    <Customer>LINOD</Customer>
+    <Qtr_1>$650.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Valkoinen suklaa</Product>
+    <Customer>QUEEN</Customer>
+    <Qtr_1>$385.94</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Valkoinen suklaa</Product>
+    <Customer>RICSU</Customer>
+    <Qtr_1>$292.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Valkoinen suklaa</Product>
+    <Customer>VAFFE</Customer>
+    <Qtr_1>$325.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Vegie-spread</Product>
+    <Customer>ALFKI</Customer>
+    <Qtr_1>$878.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Vegie-spread</Product>
+    <Customer>ERNSH</Customer>
+    <Qtr_1>$2,281.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Vegie-spread</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$1,317.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Vegie-spread</Product>
+    <Customer>HUNGO</Customer>
+    <Qtr_1>$921.37</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Vegie-spread</Product>
+    <Customer>MORGK</Customer>
+    <Qtr_1>$263.40</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Vegie-spread</Product>
+    <Customer>PICCO</Customer>
+    <Qtr_1>$395.10</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Vegie-spread</Product>
+    <Customer>WHITC</Customer>
+    <Qtr_1>$842.88</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>BLONP</Customer>
+    <Qtr_1>$718.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$212.80</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>GALED</Customer>
+    <Qtr_1>$186.20</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>GODOS</Customer>
+    <Qtr_1>$299.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$931.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>HILAA</Customer>
+    <Qtr_1>$931.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>LEHMS</Customer>
+    <Qtr_1>$997.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>MEREP</Customer>
+    <Qtr_1>$159.60</Qtr_1>
+    <Qtr_1>$538.65</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$837.90</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>RATTC</Customer>
+    <Qtr_1>$798.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$798.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>TRAIH</Customer>
+    <Qtr_1>$199.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Wimmers gute Semmelknödel</Product>
+    <Customer>WANDK</Customer>
+    <Qtr_1>$448.87</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>AROUT</Customer>
+    <Qtr_1>$237.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>BONAP</Customer>
+    <Qtr_1>$213.75</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>BOTTM</Customer>
+    <Qtr_1>$171.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>FAMIA</Customer>
+    <Qtr_1>$48.45</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>FOLIG</Customer>
+    <Qtr_1>$228.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>FOLKO</Customer>
+    <Qtr_1>$285.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>FRANS</Customer>
+    <Qtr_1>$47.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>GOURL</Customer>
+    <Qtr_1>$142.50</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>GREAL</Customer>
+    <Qtr_1>$51.30</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>MORGK</Customer>
+    <Qtr_1>$114.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>OTTIK</Customer>
+    <Qtr_1>$380.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>QUICK</Customer>
+    <Qtr_1>$418.00</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>SAVEA</Customer>
+    <Qtr_1>$95.00</Qtr_1>
+    <Qtr_1>$356.25</Qtr_1>
+  </Source_Data>
+  <Source_Data>
+    <Product>Zaanse koeken</Product>
+    <Customer>WELLI</Customer>
+    <Qtr_1>$142.50</Qtr_1>
+  </Source_Data>
+</root>
