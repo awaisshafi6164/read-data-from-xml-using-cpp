@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<EmployeesData>
+<root>
 
-    <Employees>
-
-        <Employee Name="John" Type="Part-Time">
-            Hi My name is awais.
-        </Employee>
-       
-        <Employee Name="Sean" Type="Full-Time">
-            Hi Im Shan
-        </Employee>
-       
-        <Employee Name="Sarah" Type="Part-Time">
-            Hi Im Kaaf
-        </Employee>
-
-    </Employees>
-
-</EmployeesData>
+    <Source_Data>
+        <Employee Name="John" Type="Part-Time">Hi Im John.</Employee>
+        <Employee Name="Sean" Type="Full-Time">Hi Im Sean.</Employee>
+        <Employee Name="Sarah" Type="Part-Time">Hi Im Sarah.</Employee>
+    </Source_Data>
+    
+</root>
