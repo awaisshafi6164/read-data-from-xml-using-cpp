@@ -16,23 +16,25 @@ int main()
     }
 
     xml_node skip = doc.child("root").child("Source_Data");
-
-    xml_node sam = doc.first_child( ).child( "Source_Data");
+x:
+    xml_node sam = skip;
     xml_node fName = sam.child( "Employee" );
 
     for (xml_node_iterator it = skip.begin(); it != skip.end(); ++it)
     {
-
         for (xml_attribute_iterator ait = it->attributes_begin(); ait != it->attributes_end(); ++ait)
         {
             cout << ait->name() << " = " << ait->value() << "\n";
-        }
 
+        }
         cout<< "Text = " <<fName.text().get()<<endl;
         fName = fName.next_sibling( "Employee" );
 
         cout << endl;
     }
+
+    skip = skip.next_sibling();
+    goto x;
 
     return 0;
 
